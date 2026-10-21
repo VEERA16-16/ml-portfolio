@@ -22,7 +22,7 @@ with col1:
     
 with col2:
     st.markdown("[LinkedIn](https://linkedin.com/in/mr-veeramanikandan-16v07p)")
-    st.markdown("[GitHub](https://github.com/VEERA16-16k)")
+    st.markdown("[GitHub](https://github.com/VEERA16-16)")
     st.markdown("[Kaggle](https://kaggle.com/veeramanikandan1)")
     st.markdown("[Email](mailto:veeramanikandanpandidurai@gmail.com)")
 
